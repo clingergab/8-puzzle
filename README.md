@@ -1,5 +1,5 @@
 # 8-puzzle
-An 8-puzzle solver
+An 8-puzzle solver  
 The N-puzzle game consists of a board holding N = m^2 − 1 distinct movable tiles, plus one empty space. There is one tile for each number in the set {0, 1,..., m2 − 1}. In this assignment, we will represent the blank space with the number 0 and focus on the m = 3 case (8-puzzle).
 
 ## Goal:
